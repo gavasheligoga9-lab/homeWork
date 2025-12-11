@@ -1,0 +1,9 @@
+#defendencies
+node_modules
+
+#secrets
+.env
+
+#Logs
+Logs/
+*.log
