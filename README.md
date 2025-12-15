@@ -14,10 +14,11 @@
 2. გახსნა
 3. ატვირთვა
 
-[ჩემი  GitHub პორტფოლიო]( httm://github.com/Gavasheligoga/homeWork)
+[ჩემი  GitHub პორტფოლიო]( httm://github.com/gavasheligoga9-lab/homeWork)
 
 ```javascript
 console.log("Hello world")
 function test(){
-    
+  return true
 }
+```
